@@ -7,11 +7,11 @@
 На тестирование затрачено: 2 часа
 
 В результате тестирования выявлены следующие дефекты:
-* все протестированные 15-значные номера карт American Express невалидные [issue](https://github.com/strugatskaya/Java_Intro_1.1./issues/1#issue-891330935)
-* все протестированные 16-значные номера карт МИР невалидные [issue](https://github.com/strugatskaya/Java_Intro_1.1./issues/2#issue-892683767)
-* все протестированные 19-значные номера карт China T-Union невалидные [issue](https://github.com/strugatskaya/Java_Intro_1.1./issues/3#issue-892684839)
-* все протестированные 15-значные номера карт UATP невалидные [issue](https://github.com/strugatskaya/Java_Intro_1.1./issues/4#issue-892685857)
-* все протестированные 15-значные номера карт Diners невалидные [issue](https://github.com/strugatskaya/Java_Intro_1.1./issues/5#issue-892688630)
+* все протестированные 15-значные номера карт American Express невалидные -- [issue](https://github.com/strugatskaya/Java_Intro_1.1./issues/1#issue-891330935)
+* все протестированные 16-значные номера карт МИР невалидные -- [issue](https://github.com/strugatskaya/Java_Intro_1.1./issues/2#issue-892683767)
+* все протестированные 19-значные номера карт China T-Union невалидные -- [issue](https://github.com/strugatskaya/Java_Intro_1.1./issues/3#issue-892684839)
+* все протестированные 15-значные номера карт UATP невалидные -- [issue](https://github.com/strugatskaya/Java_Intro_1.1./issues/4#issue-892685857)
+* все протестированные 15-значные номера карт Diners невалидные -- [issue](https://github.com/strugatskaya/Java_Intro_1.1./issues/5#issue-892688630)
 
 ## *Описание процесса тестирования*
 
